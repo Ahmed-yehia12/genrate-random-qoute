@@ -1,0 +1,36 @@
+#demo{
+    background-color:  #071952;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+    color: #97feed;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+    h1{
+        font-size: 50px;
+    }
+#demo p {
+    font-size: 30px;
+}
+
+#new-button{
+
+    padding: 15px 60px ;
+    background-color: #0b666a;
+    border-radius: 20px;
+    border: none;
+
+
+    
+}
+#Qoute{
+    text-align: center;
+}
+#author{
+    text-align: center;
+}
